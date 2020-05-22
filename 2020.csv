@@ -1,0 +1,21 @@
+Timestamp;Vpisna številka;Spol:;Starost:;Status:;1p. Ste že kdaj uporabljali pogovorni sistem (npr. Siri, Google Assistant, Cortana, Amazon Alexa)?;2p. Ali imate izkušnje s sintetiziranim govorom (npr. glas telefonskega odzivnika, samopostrežne blagajne);3p. Ocenite, kakšno je vaše trenutno počutje.;4p. Ocenite, v kolikšni meri se trenutno počutite utrujeni.;5p. Ocenite, v kolikšni meri se vam trenutno mudi.;6p. Kateri vmesik z Alexo boste uporabili;1. Verjetno bi ta sistem ponovno uporabil.;2. Sistemu zaupam, da deluje korektno.;3. Sistem sem uporabljal samozavestno.;4. Sistem je uporaben v praksi.;5. Brez težav sem dosegel cilj pogovora;6. Sistem mi je kot sogovorniku dal dober občutek.;7. Sistem mi je dal občutek nadzora.;8. Kvaliteta delovanja sistema je zadostna in še ga bom uporabil.;9. Sistem je dobro organiziran in logičen.;10. Sistem je uporabljal vsakdanje besede.;11. Sistem se je zdel vljuden.;12. Hitrost govora je bila primerna in lahko sem ga sledil.;13. Glas sistema je bil prijeten.;14. Sistem se je zdel prijeten.;15. Sistem se je glede na način govora zdel profesionalen. ;16. Sistem je bil prijazen.;17. Sistem je bil vljuden.;18. Glas sistema je zvenel kot običajna oseba.;19. Glas sistema je zvenel naravno.;20. Glas sistema je zvenel entuziastično oziroma energično.;21. Glas sistema je zvenel kot glas televizije ali radia. ;22. Zdelo se mi je, da sem moral predolgo čakati, da je sistem nehal govoriti, zato da sem lahko odgovoril.;23. Sporočila so se ponavljala.;24. Sistem je ponudil več podrobnosti kot sem jih potreboval.;25. Sistem je bil preveč zgovoren.
+1.09.2019 12:32;63180413;moški;23;Študent/-ka;Ne;Ne;3;3;4;2019;5;4;4;5;4;4;3;5;4;5;6;6;6;5;6;6;6;5;5;3;3;7;4;4;5
+1.09.2019 12:39;63180419;ženski;23;Študent/-ka;Da;Da;4;2;2;2019;7;7;7;7;6;7;7;7;7;7;7;7;7;7;7;7;7;6;7;7;7;5;2;5;3
+1.09.2019 12:47;63180416;moški;23;Študent/-ka;Da;Da;2;3;1;2019;3;5;5;4;2;4;2;4;3;5;5;5;6;5;5;5;5;6;6;2;5;7;3;2;4
+1.09.2019 12:57;63180402;ženski;23;Študent/-ka;Da;Da;3;3;3;2019;4;6;5;3;6;4;4;3;4;6;6;7;6;4;5;6;5;2;2;6;3;3;3;5;3
+1.09.2019 12:57;63180399;moški;24;Študent/-ka;Ne;Da;5;4;2;2019;7;5;6;6;6;4;5;4;6;7;7;5;7;6;6;6;6;7;6;5;3;7;6;7;4
+1.09.2019 12:58;63170424;moški;24;Študent/-ka;Da;Da;3;2;1;2019;4;6;3;5;5;6;6;4;4;6;7;7;7;7;7;7;7;3;2;3;5;5;6;5;3
+1.09.2019 13:03;63180414;moški;21;Študent/-ka;Da;Da;3;3;2;2019;7;5;6;6;7;6;4;5;6;6;6;7;6;7;5;6;6;5;3;5;5;5;2;3;5
+1.09.2019 13:08;63180410;ženski;23;Študent/-ka;Da;Da;3;5;2;2019;6;7;7;6;5;5;5;5;6;7;7;7;7;6;5;7;6;7;6;4;3;5;2;2;2
+1.09.2019 13:55;63180401;moški;23;Študent/-ka;Da;Da;4;3;4;2019;5;5;6;6;5;5;6;6;5;7;7;7;7;6;6;6;7;6;5;5;6;3;3;4;4
+1.09.2019 14:27;63180412;moški;23;Študent/-ka;Ne;Da;4;1;2;2019;5;5;3;4;4;3;6;5;5;6;6;7;6;5;6;5;5;4;3;4;4;2;5;2;2
+1.09.2019 14:29;63140284;moški;23;Študent/-ka;Ne;Da;4;3;3;2019;5;6;7;7;6;5;5;6;7;7;7;7;7;6;6;7;7;4;5;5;4;6;4;4;4
+1.09.2019 14:37;63180398;moški;24;Študent/-ka;Da;Da;2;4;2;2019;5;6;4;7;7;5;5;5;5;6;6;2;6;6;6;6;6;3;2;2;3;5;4;4;6
+1.09.2019 14:44;63180418;moški;23;Študent/-ka;Da;Da;4;2;4;2019;6;6;6;5;4;3;5;4;4;6;6;7;5;5;6;6;6;5;4;5;3;4;4;3;4
+1.09.2019 14:46;63180415;moški;24;Študent/-ka;Da;Da;3;3;4;2019;4;4;7;4;4;4;3;4;3;7;6;7;7;6;7;7;7;7;7;5;5;6;5;4;5
+1.09.2019 14:56;63180420;moški;22;Študent/-ka;Ne;Ne;3;3;3;2019;5;2;7;6;4;5;7;4;6;5;7;7;7;5;7;7;5;4;3;5;4;4;3;5;3
+1.09.2019 14:56;63140015;moški;23;Študent/-ka;Ne;Ne;3;4;1;2019;3;2;3;5;3;4;3;3;5;7;7;7;6;3;6;7;7;2;2;4;2;1;3;3;5
+22.05.2020 09:49;64130109;mo�ki;25;�tudent/-ka;Ne;Da;4;1;1;2020;6;3;7;7;6;7;6;5;6;7;7;7;6;7;7;7;7;3;3;7;4;2;2;1;4
+22.05.2020 09:52;64150126;mo�ki;24;�tudent/-ka;Da;Da;4;1;3;2020;5;6;7;7;5;7;5;7;6;6;7;7;7;7;7;6;7;4;1;6;1;1;5;2;2
+22.05.2020 09:53;64190469;�enski;23;�tudent/-ka;Da;Ne;4;3;4;2020;7;6;6;7;6;6;6;6;6;6;6;7;7;7;7;7;7;7;7;7;7;6;6;6;6
+22.05.2020 09:58;64160147;�enski;22;�tudent/-ka;Ne;Da;4;3;2;2020;2;5;6;4;5;4;3;3;5;7;7;7;5;4;7;6;7;3;3;2;4;7;1;6;6
